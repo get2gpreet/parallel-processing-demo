@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "abc1",
+    "salary": 5000,
+    "department": "IT",
+    "email": "abc1@test.com",
+    "phone": "0512-11111"
+  },
+  {
+    "id": 2,
+    "name": "abc2",
+    "salary": 5000,
+    "department": "FINANCE",
+    "email": "abc2@test.com",
+    "phone": "0512-22222"
+  },
+  {
+    "id": 3,
+    "name": "abc3",
+    "salary": 5000,
+    "department": "FINANCE",
+    "email": "abc3@test.com",
+    "phone": "0512-33333"
+  },
+  {
+    "id": 4,
+    "name": "abc4",
+    "salary": 5000,
+    "department": "IT",
+    "email": "abc4@test.com",
+    "phone": "0512-44444"
+  },
+  {
+    "id": 5,
+    "name": "abc5",
+    "salary": 5000,
+    "department": "HR",
+    "email": "abc5@test.com",
+    "phone": "0512-55555"
+  }
+]
